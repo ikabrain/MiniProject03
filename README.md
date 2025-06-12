@@ -1,4 +1,4 @@
-# 📝 Mini Project 03 - Basics of Python
+# 📝 Mini Project 03 - Subset Selection Problem
 > **Course**: [Thapar's Machine Learning Summer School, 2025](https://www.thaparsummerschool.com/)
 > 
 > **Student Name**: Ikansh Mahajan
